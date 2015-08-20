@@ -1,0 +1,15 @@
+Package: spark-evidation
+Version: 1.3.1
+Architecture: all
+Maintainer: Evidation Health <tquisel@evidation.com>
+Installed-Size: 183570
+Depends: bigtop-utils (>= 0.7), parquet
+Section: misc
+Priority: extra
+Homepage: http://spark.incubator.apache.org/
+Description: Lightning-Fast Cluster Computing
+ Spark is a MapReduce-like cluster computing framework designed to support
+ low-latency iterative jobs and interactive use from an interpreter. It is
+ written in Scala, a high-level language for the JVM, and exposes a clean
+ language-integrated syntax that makes it easy to write parallel jobs.
+ Spark runs on top of the Apache Mesos cluster manager.

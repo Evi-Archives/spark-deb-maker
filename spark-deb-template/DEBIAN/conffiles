@@ -1,0 +1,11 @@
+/etc/default/spark
+/etc/spark/conf.dist/spark-env.sh
+/etc/spark/conf.dist/fairscheduler.xml.template
+/etc/spark/conf.dist/spark-defaults.conf.template
+/etc/spark/conf.dist/log4j.properties.template
+/etc/spark/conf.dist/slaves.template
+/etc/spark/conf.dist/spark-env.sh.template
+/etc/spark/conf.dist/metrics.properties.template
+/etc/spark/conf.dist/spark-defaults.conf
+/etc/init.d/spark-worker
+/etc/init.d/spark-master
